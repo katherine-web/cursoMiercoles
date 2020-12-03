@@ -1,1 +1,3 @@
 hola esto es un archivo de chat
+
+hoy es miercoles
